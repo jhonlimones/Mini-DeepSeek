@@ -18,8 +18,8 @@ Este modelo ha sido optimizado por **David Sánchez Alonso**, logrando una reduc
 ## 🛠️ Instalación
 ### 1️⃣ Clonar el repositorio
 ```bash
-git clone <URL_DEL_REPOSITORIO>
-cd <NOMBRE_DEL_PROYECTO>
+git clone <https://github.com/jhonlimones/Mini-DeepSeek.git>
+cd <Mini-DeepSeek>
 ```
 
 ### 2️⃣ Crear un entorno virtual (Opcional pero recomendado)
